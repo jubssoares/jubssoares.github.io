@@ -1,0 +1,39 @@
+{
+    "locales": {
+        "pt": {
+            "welcome": "Boas-vindas a minha <span class='text-primary'>jornada!</span>",
+            "welcomeShort": "Boas-vindas!",
+            "bio": "Apaixonada pela área de dados, com formação em Física e uma transição de carreira bem-sucedida, atuo com modelagem de dados, consultas SQL/DB2 e ferramentas como DBVisualizer e DBeaver. Minha trajetória une pensamento analítico, habilidades técnicas e experiência em pesquisa científica, oferecendo uma abordagem singular para a resolução de problemas complexos. Fique à vontade para conhecer mais sobre minha jornada!"
+        },
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "Passionate about data, with a background in Physics and a successful career transition, I work with data modeling, SQL/DB2 queries, and tools such as DBVisualizer and DBeaver. My journey combines analytical thinking, technical skills, and experience in scientific research, offering a unique approach to solving complex problems. Feel free to learn more about my journey!"
+        },
+
+        "es": {
+            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
+            "welcomeShort": "¡Saludos!",
+            "bio": "Apasionada por los datos, con formación en Física y una exitosa transición de carrera, trabajo con modelado de datos, consultas SQL/DB2 y herramientas como DBVisualizer y DBeaver. Mi trayectoria combina pensamiento analítico, habilidades técnicas y experiencia en investigación científica, ofreciendo un enfoque único para resolver problemas complejos. ¡Siéntete libre de conocer más sobre mi camino!"
+        },
+
+        "fr": {
+            "welcome": "Bienvenue sur mon <span class='text-primary'>CV</span>!",
+            "welcomeShort": "Bienvenue!",
+            "bio": "Passionnée par les données, avec une formation en physique et une transition de carrière réussie, je travaille avec la modélisation de données, les requêtes SQL/DB2 et des outils tels que DBVisualizer et DBeaver. Mon parcours combine pensée analytique, compétences techniques et expérience en recherche scientifique, offrant une approche unique pour résoudre des problèmes complexes. N'hésitez pas à en savoir plus sur mon parcours!"
+        }
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}",
+            "@link{profile.contact.lattes}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}"
+        ]
+    }
+}

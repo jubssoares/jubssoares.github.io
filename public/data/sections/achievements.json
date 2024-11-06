@@ -1,0 +1,70 @@
+{
+    "locales": {
+        "pt": {
+            "title": "Realizações <span class='text-primary'>Profissionais</span>",
+            "description": "Minha trajetória como profissional de dados tem sido marcada por um compromisso constante com o aprendizado e aprimoramento de habilidades, além de uma participação ativa em projetos e eventos relacionados à área. Ao longo do caminho, conquistei experiências valiosas em modelagem, análise de dados e otimização de processos, o que me permitiu alcançar marcos significativos na minha carreira:"
+        },
+        
+        "en": {
+            "title": "Career <span class='text-primary'>Achievements</span>",
+            "description": "My journey as a data professional has been marked by a continuous commitment to learning and skill enhancement, along with active participation in projects and events related to the field. Along the way, I have gained valuable experience in data modeling, analysis, and process optimization, allowing me to achieve significant milestones in my career:"
+        },
+
+        "es": {
+            "title": "Logros <span class='text-primary'>Profesionales</span>",
+            "description": "Mi trayectoria como profesional de datos ha estado marcada por un compromiso constante con el aprendizaje y la mejora de habilidades, junto con una participación activa en proyectos y eventos relacionados con el área. A lo largo del camino, he adquirido experiencia valiosa en modelización de datos, análisis y optimización de procesos, lo que me ha permitido alcanzar hitos significativos en mi carrera:"
+        },
+
+        "fr": {
+            "title": "Réalisations <span class='text-primary'>Professionnelles</span>",
+            "description": "Mon parcours en tant que concepteur UX a été marqué par une dédication inébranlable à l'apprentissage et à l'amélioration des compétences, ainsi que par une participation enthousiaste à des événements de conception. En conséquence, j'ai dressé une liste de récompenses et de certifications remarquables:"
+        }
+    },
+
+    "subcategories": [
+
+        {
+            "id": "certifications",
+            "faIcon": "fa-solid fa-award",
+            "locales": {
+                "pt": {"title": "Certificações", "buttonLabel": "Ver Certificado"},
+                "en": {"title": "Certifications", "buttonLabel": "View Certification"},
+                "es": {"title": "Certificaciones", "buttonLabel": "Ver Certificación"},
+                "fr": {"title": "Certifications", "buttonLabel": "Voir la Certification"}
+            }
+        }
+    ],
+
+    "items": {
+        
+        "certifications": [
+            {
+                "id": "python_reprograma",
+                "place": "@link{places.reprograma}",
+                "date": "2018/08",
+                "href": "https://drive.google.com/file/d/1ejczU4L9Z7ooIpiXcI2JXOULXp82XFyL/view?usp=drive_link",
+                "locales": {
+                    "pt": {
+                        "title": "Análise de dados com Python",
+                        "description": "Curso intensivo de 18 semanas da {reprograma}, realizado de 23 de março a 03 de agosto de 2024, com carga horária de 364,5 horas. O curso abordou fundamentos de Python, versionamento de código, orientação a objetos, testes, introdução a dados, análise estatística, visualização de dados, metodologias ágeis, além de orientação educacional e mentoria de carreira."
+                    },
+                    "en": {
+                        "title": "Data Analysis with Python",
+                        "description": "An intensive 18-week course from {reprograma}, held from March 23 to August 3, 2024, with a total of 364.5 hours. The course covered Python fundamentals, version control, object-oriented programming, testing, introduction to data, statistical analysis, data visualization, agile methodologies, as well as educational guidance and career mentoring."
+                    },
+
+                    "es": {
+                        "title": "Análisis de datos con Python",
+                        "description": "Curso intensivo de 18 semanas de {reprograma}, realizado del 23 de marzo al 3 de agosto de 2024, con una carga horaria de 364,5 horas. El curso abarcó fundamentos de Python, control de versiones, programación orientada a objetos, pruebas, introducción a los datos, análisis estadístico, visualización de datos, metodologías ágiles, además de orientación educativa y mentoría profesional."
+                    },
+
+                    "fr": {
+                        "title": "Analyse de données avec Python",
+                        "description": "Cours intensif de 18 semaines de {reprograma}, réalisé du 23 mars au 3 août 2024, avec une durée totale de 364,5 heures. Le cours a abordé les bases de Python, le contrôle de version, la programmation orientée objet, les tests, l'introduction aux données, l'analyse statistique, la visualisation des données, les méthodologies agiles, ainsi que l'orientation pédagogique et le mentorat de carrière."
+                    }
+                    }
+                }
+            
+        ]
+    }
+}

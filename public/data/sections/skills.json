@@ -1,0 +1,262 @@
+{
+    "locales": {
+        "pt": {
+            "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+            "description": "Explore a diversidade de habilidades que adquiri e desenvolvi:"
+        },
+        
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        },
+        "es": {
+            "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+            "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:"
+        },
+        "fr": {
+            "title": "Ensemble de <span class='text-primary'>Compétences</span>",
+            "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "abilities",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {"title": null}
+            }
+        },
+
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "pt": {"title": "Programação"},
+                "en": {"title": "Programming"},
+                "es": {"title": "Programación"},
+                "fr": {"title": "Programmation"}
+            }
+        },
+
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
+            "faIcon": "fa fa-language",
+            "locales": {
+                "pt": {"title": "Idiomas"},
+                "en": {"title": "Languages"},
+                "es": {"title": "Idiomas"},
+                "fr": {"title": "Langues"}
+            }
+        },
+
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "pt": {"title": "Habilidades Adicionais"},
+                "en": {"title": "Bonus Skills"},
+                "es": {"title": "Habilidades Adicionales"},
+                "fr": {"title": "Plus Habiletés"}
+            }
+        }
+    ],
+
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": null,
+                "locales": {
+                    "pt": {
+                        "title": "Banco de Dados",
+                        "description": "Modelagem de dados, consultas SQL/DB2 e uso de ferramentas de gerenciamento de banco de dados e clientes SQL, como DBVisualizer e DBeaver."
+                    },
+
+                    "en": {
+                        "title": "Database",
+                        "description": "Data modeling, SQL/DB2 queries, and use of database management tools and SQL clients, such as DBVisualizer and DBeaver."
+                    },
+                    "es": {
+                        "title": "Base de datos",
+                        "description": "Modelado de datos, consultas SQL/DB2 y uso de herramientas de gestión de bases de datos y clientes SQL, como DBVisualizer y DBeaver."
+                    },
+                    "fr": {
+                        "title": "Base de données",
+                        "description": "Modélisation de données, requêtes SQL/DB2 et utilisation d’outils de gestion de bases de données et de clients SQL, tels que DBVisualizer et DBeaver."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-project-diagram",
+                "value": null,
+                "locales": {
+                    "pt": {
+                        "title": "Análise de dados",
+                        "description": "Coleta, processamento e análise de dados para extração de insights, com uso de ferramentas como Python e Power BI para visualização de dados e apoio à tomada de decisão."
+                    },
+
+                    "en": {
+                        "title": "Data Analysis",
+                        "description": "Data collection, processing, and analysis to extract insights, using tools such as Python and Power BI for data visualization and decision-making support."
+                    },
+                    "es": {
+                        "title": "Análisis de Datos",
+                        "description": "Recolección, procesamiento y análisis de datos para extraer insights, utilizando herramientas como Python y Power BI para visualización de datos y apoyo en la toma de decisiones."
+                    },
+                    "fr": {
+                        "title": "Analyse de Données",
+                        "description": "Collecte, traitement et analyse de données pour extraire des insights, en utilisant des outils tels que Python et Power BI pour la visualisation des données et l’appui à la prise de décision."
+                    }
+                }
+            }
+        ],
+
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-python",
+                "value": 80,
+                "locales": {
+                    "pt": {"title": "Python", "description": "Experiência: 5 years"},
+                    "en": {"title": "Python", "description": "Experience Time: 5 years"},
+                    "es": {"title": "Python", "description": "Experiencia: 5 años"},
+                    "fr": {"title": "Python", "description": "Expérience : 5 ans"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": 60,
+                "locales": {
+                    "pt": {"title": "SQL", "description": "Experiência: 2 anos"},
+                    "en": {"title": "SQL", "description": "Experience Time: 2 years"},
+                    "es": {"title": "SQL", "description": "Experiencia: 2 años"},
+                    "fr": {"title": "SQL", "description": "Expérience : 2 ans"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-git-alt",
+                "value": 50,
+                "locales": {
+                    "pt": {"title": "Git", "description": "Experiência: 3 anos"},
+                    "en": {"title": "Git", "description": "Experience Time: 3 years"},
+                    "es": {"title": "Git", "description": "Experiencia: 3 años"},
+                    "fr": {"title": "Git", "description": "Expérience : 3 ans"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-github",
+                "value": 50,
+                "locales": {
+                    "pt": {"title": "GitHub", "description": "Experiência: 3 anos"},
+                    "en": {"title": "GitHub", "description": "Experience Time: 3 years"},
+                    "es": {"title": "GitHub", "description": "Experiencia: 3 años"},
+                    "fr": {"title": "GitHub", "description": "Expérience : 3 ans"}
+                }
+            }
+        ],
+
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/pt.png",
+                "faIcon": null,
+                "value": 100,
+                "locales": {
+                    "pt": {"title": "Português Brasileiro", "description": "Falante nativa de português com excelentes habilidades de comunicação verbal e escrita."},
+                    "en": {"title": "Brazilian Portuguese", "description": "Native Portuguese speaker with excellent verbal and written communication skills."},
+                    "es": {"title": "Portugués Brasileño", "description": "Hablante nativa de portugués con excelentes habilidades de comunicación verbal y escrita."},
+                    "fr": {"title": "Portugais Brésilien", "description": "Locuteur natif de portugais avec d'excellentes compétences en communication orale et écrite."}
+                }
+            },
+            
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 15,
+                "locales": {
+                    "pt": {"title": "Inglês", "description": "Compreensão básica de leitura e oral em inglês, no nível A1, em processo de aprendizagem e aperfeiçoamento."},
+                    "en": {"title": "English", "description": "Basic reading and listening comprehension in English, at the A1 level, in the process of learning and improvement."},
+                    "es": {"title": "Inglés", "description": "Comprensión básica de lectura y oral en inglés, en el nivel A1, en proceso de aprendizaje y perfeccionamiento."},
+                    "fr": {"title": "Anglais", "description": "Compréhension de base en lecture et orale en anglais, au niveau A1, en cours d'apprentissage et d'amélioration."}
+                }
+            }
+            
+        ],
+
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-chart-bar",
+                "value": null,
+                "locales": {
+                    "pt": {"title": "Pandas", "description": "Manipulação e análise de dados com a biblioteca Pandas, facilitando a limpeza, transformação e organização de grandes volumes de dados para análise eficiente."},
+                    "en": {"title": "Pandas", "description": "Data manipulation and analysis using the Pandas library, enabling efficient cleaning, transformation, and organization of large data sets for analysis."},
+                    "es": {"title": "Pandas", "description": "Manipulación y análisis de datos con la biblioteca Pandas, facilitando la limpieza, transformación y organización de grandes volúmenes de datos para un análisis eficiente."},
+                    "fr": {"title": "Pandas", "description": "Manipulation et analyse des données avec la bibliothèque Pandas, facilitant le nettoyage, la transformation et l'organisation de grands volumes de données pour une analyse efficace."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-chart-line",
+                "value": null,
+                "locales": {
+                    "pt": {"title": "Matplotlib - Seaborn", "description": "Criação de visualizações gráficas para dados, utilizando as bibliotecas Matplotlib e Seaborn, oferecendo insights claros por meio de gráficos e diagramas personalizados."},
+                    "en": {"title": "Matplotlib - Seaborn", "description": "Creation of graphical visualizations for data using Matplotlib and Seaborn libraries, providing clear insights through customized charts and diagrams."},
+                    "es": {"title": "Matplotlib - Seaborn", "description": "Creación de visualizaciones gráficas para datos utilizando las bibliotecas Matplotlib y Seaborn, proporcionando información clara a través de gráficos y diagramas personalizados."},
+                    "fr": {"title": "Matplotlib - Seaborn", "description": "Création de visualisations graphiques pour les données avec les bibliothèques Matplotlib et Seaborn, fournissant des informations claires grâce à des graphiques et des diagrammes personnalisés."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-superscript",
+                "value": null,
+                "locales": {
+                    "pt": {"title": "Numpy", "description": "Realização de operações numéricas e matemáticas de alto desempenho, utilizando arrays multidimensionais, facilitando cálculos complexos e manipulação de grandes volumes de dados numéricos."},
+                    "en": {"title": "Numpy", "description": "Performing high-performance numerical and mathematical operations using multidimensional arrays, enabling complex calculations and handling large volumes of numerical data."},
+                    "es": {"title": "Numpy", "description": "Realización de operaciones numéricas y matemáticas de alto rendimiento, utilizando arreglos multidimensionales, facilitando cálculos complejos y la manipulación de grandes volúmenes de datos numéricos."},
+                    "fr": {"title": "Numpy", "description": "Réalisation d'opérations numériques et mathématiques haute performance à l'aide de tableaux multidimensionnels, facilitant les calculs complexes et la gestion de grands volumes de données numériques."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-chart-pie",
+                "value": null,
+                "locales": {
+                    "pt": {"title": "Power BI", "description": "Desenvolvimento de dashboards interativos e relatórios dinâmicos utilizando Power BI, transformando dados em insights visuais que auxiliam na tomada de decisões estratégicas."},
+                    "en": {"title": "Power BI", "description": "Development of interactive dashboards and dynamic reports using Power BI, transforming data into visual insights that aid strategic decision-making."},
+                    "es": {"title": "Power BI", "description": "Desarrollo de paneles interactivos e informes dinámicos utilizando Power BI, transformando los datos en información visual que ayuda en la toma de decisiones estratégicas."},
+                    "fr": {"title": "Power BI", "description": "Développement de tableaux de bord interactifs et de rapports dynamiques avec Power BI, transformant les données en informations visuelles pour soutenir la prise de décisions stratégiques."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-sync-alt",
+                "value": null,
+                "locales": {
+                    "pt": {"title": "ETL", "description": "Processamento e transformação de dados através de ETL (Extração, Transformação e Carga), garantindo que os dados estejam prontos para análise e uso eficaz."},
+                    "en": {"title": "ETL", "description": "Data processing and transformation through ETL (Extract, Transform, Load), ensuring data is ready for analysis and effective use."},
+                    "es": {"title": "ETL", "description": "Procesamiento y transformación de datos mediante ETL (Extracción, Transformación y Carga), asegurando que los datos estén listos para su análisis y uso eficaz."},
+                    "fr": {"title": "ETL", "description": "Traitement et transformation des données via ETL (Extraction, Transformation, Chargement), garantissant que les données soient prêtes pour l'analyse et l'utilisation efficace."}
+                }
+            }
+        ]
+
+    }
+}

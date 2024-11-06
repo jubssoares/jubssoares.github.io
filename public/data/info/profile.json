@@ -1,0 +1,59 @@
+{
+    "name": "Juliana Soares",
+    "profilePictureUrl": "images/pictures/perfil.png",
+    "locales": {
+        "pt": {
+            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Profissional de dados"
+        },
+        "en": {
+            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Data Professional"
+        },
+        "es": {
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Profesional de Datos"
+        },
+        "fr": {
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Professionnel des Données"
+        }
+    },
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Brasil, Salvador - BA",
+            "valueShort": "Salvador - BA",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+        "email": {
+            "id": "email",
+            "value": "eujulianasilvasoares@gmail.com",
+            "valueShort": "eujulianasilvasoares@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:eujulianasilvasoares@gmail.com"
+        },
+        "github": {
+            "id": "github",
+            "value": "@jubssoares",
+            "valueShort": "@jubssoares",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/jubssoares"
+        },
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@julianasilvasoares",
+            "valueShort": "@julianasilvasoares",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com/in/julianasilvasoares"
+        },
+        "lattes": {
+            "id": "lattes",
+            "value": "@julianasilvasoares",
+            "valueShort": "@julianasilvasoares",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "href": "http://lattes.cnpq.br/7348547730589925"
+        }
+    }
+}

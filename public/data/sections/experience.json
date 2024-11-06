@@ -1,0 +1,84 @@
+{
+    "locales": {
+        "pt": {
+            "title": "<span class='text-primary'>Experiência</span> Profissional",
+            "description": "Um olhar sobre minha experiência de trabalho e trajetória profissional."
+        },
+        
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        },
+
+        "es": {
+            "title": "<span class='text-primary'>Experiencia</span> Profesional",
+            "description": "Un vistazo a mi experiencia laboral y trayectoria profesional."
+        },
+
+        "fr": {
+            "title": "Expérience <span class='text-primary'>Professionnelle</span>",
+            "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière."
+        }
+    },
+
+    "items": [
+
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.capgemini}",
+            "period": ["2022/11", "2024/10"],
+            "locales": {
+                "pt": {
+                    "title": "Analista de soluções I",
+                    "description": "Minha trajetória profissional começou com a prestação de serviços e consultoria em TI, onde pude aplicar meus conhecimentos na área de dados. Atuei com modelagem e análise de dados, desenvolvendo dicionários de dados e criando consultas e queries em SQL para DB2. Também fui responsável por realizar testes e garantir que as soluções entregues estivessem alinhadas às necessidades do cliente.",
+                    "tags": ["Modelagem de dados", "Análise de dados", "SQL/DB2", "Python"]
+                },
+                
+                "en": {
+                    "title": "Solutions Analyst I",
+                    "description": "My professional journey began with providing IT services and consultancy, where I applied my knowledge in the data field. I worked with data modeling and analysis, developing data dictionaries and creating SQL queries for DB2. I was also responsible for performing tests and ensuring that the delivered solutions met the client's needs.",
+                    "tags": ["Data Modeling", "Data Analysis", "SQL/DB2", "Python"]
+                },
+                "es": {
+                    "title": "Analista de Soluciones I",
+                    "description": "Mi trayectoria profesional comenzó con la prestación de servicios y consultoría en TI, donde pude aplicar mis conocimientos en el área de datos. Trabajé con modelado y análisis de datos, desarrollando diccionarios de datos y creando consultas y queries en SQL para DB2. También fui responsable de realizar pruebas y garantizar que las soluciones entregadas estuvieran alineadas con las necesidades del cliente.",
+                    "tags": ["Modelado de datos", "Análisis de datos", "SQL/DB2", "Python"]
+                },
+                "fr": {
+                    "title": "Analyste de Solutions I",
+                    "description": "Mon parcours professionnel a commencé par la prestation de services et de conseils en informatique, où j'ai appliqué mes connaissances dans le domaine des données. J'ai travaillé sur la modélisation et l'analyse des données, en développant des dictionnaires de données et en créant des requêtes SQL pour DB2. J'étais également responsable de réaliser des tests et de m'assurer que les solutions livrées répondaient aux besoins des clients.",
+                    "tags": ["Modélisation de données", "Analyse de données", "SQL/DB2", "Python"]
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.capgemini}",
+            "period": ["2024/11", "now"],
+            "locales": {
+                "pt": {
+                    "title": "Analista de soluções II",
+                    "description": "Minha atuação tem sido focada na área de dados, com ênfase em modelagem e análise, além de consultas SQL/DB2. Utilizo ferramentas como CA ERwin Data Modeler e DBVisualizer para estruturar, analisar e otimizar dados de maneira eficiente, sempre buscando soluções alinhadas às necessidades do negócio e garantindo a qualidade das informações.",
+                    "tags": ["Modelagem de dados", "Análise de dados", "SQL/DB2", "Python"]
+                },
+                
+                "en": {
+                    "title": "Solutions Analyst II",
+                    "description": "My work has focused on the data field, with an emphasis on modeling and analysis, as well as SQL/DB2 queries. I use tools such as CA ERwin Data Modeler and DBVisualizer to efficiently structure, analyze, and optimize data, always seeking solutions aligned with business needs and ensuring data quality.",
+                    "tags": ["Data Modeling", "Data Analysis", "SQL/DB2", "Python"]
+                },
+                "es": {
+                    "title": "Analista de Soluciones II",
+                    "description": "Mi trabajo se ha centrado en el área de datos, con énfasis en la modelización y el análisis, así como en consultas SQL/DB2. Utilizo herramientas como CA ERwin Data Modeler y DBVisualizer para estructurar, analizar y optimizar datos de manera eficiente, siempre buscando soluciones alineadas con las necesidades del negocio y garantizando la calidad de la información.",
+                    "tags": ["Modelado de datos", "Análisis de datos", "SQL/DB2", "Python"]
+                },
+                "fr": {
+                    "title": "Analyste de Solutions II",
+                    "description": "Mon travail s'est concentré sur le domaine des données, avec un accent sur la modélisation et l'analyse, ainsi que sur les requêtes SQL/DB2. J'utilise des outils tels que CA ERwin Data Modeler et DBVisualizer pour structurer, analyser et optimiser les données de manière efficace, en recherchant toujours des solutions alignées avec les besoins de l'entreprise et en garantissant la qualité des informations.",
+                    "tags": ["Modélisation de données", "Analyse de données", "SQL/DB2", "Python"]
+                }
+            }
+        }
+    ]
+}

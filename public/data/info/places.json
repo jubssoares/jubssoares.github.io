@@ -1,0 +1,49 @@
+{
+    "uneb": {
+        "logoUrl": "images/places/uneb.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "pt": {"name": "Universidade do Estado da Bahia (UNEB)"},
+            "en": {"name": "State University of Bahia (UNEB)"},
+            "es": {"name": "Universidad del Estado de Bahía (UNEB)"},
+            "fr": {"name": "Université d'État de Bahia (UNEB)"}
+        }
+    },
+
+    "usp": {
+        "logoUrl": "images/places/usp.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "pt": {"name": "Universidade de São Paulo (USP)"},
+            "en": {"name": "University of São Paulo (USP)"},
+            "es": {"name": "Universidad de São Paulo (USP)"},
+            "fr": {"name": "Université de São Paulo (USP)"}
+        }
+    },
+
+    "capgemini": {
+        "logoUrl": "images/places/capgemini.png",
+        "faIcon": "fa-solid fa-building",
+        "locales": {
+            "pt": {"name": "Capgemini"},
+            "en": {"name": "Capgemini"},
+            "es": {"name": "Capgemini"},
+            "fr": {"name": "Capgemini"}
+        }
+    },
+
+    "reprograma": {
+        "logoUrl": "images/places/reprograma.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "{reprograma}"},
+            "en": {"name": "{reprograma}"},
+            "es": {"name": "{reprograma}"},
+            "fr": {"name": "{reprograma}"}
+        }
+    }
+
+
+}
+
+
