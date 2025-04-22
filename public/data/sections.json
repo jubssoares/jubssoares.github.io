@@ -1,0 +1,213 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/about.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Welcome to *my resume!*",
+                    "title_short": "Welcome!",
+                    "description": null,
+                    "nav_label": "About"
+                },
+                "es": {
+                    "title": "¡Bienvenido a *mi CV!*",
+                    "title_short": "Bienvenido!",
+                    "description": null,
+                    "nav_label": "Acerca de"
+                },
+                "fr": {
+                    "title": "Bienvenue sur *mon CV!*",
+                    "title_short": "Bienvenue !",
+                    "description": null,
+                    "nav_label": "À propos"
+                },
+                "pt": {
+                    "title": "Bem-vindo ao *meu currículo!*",
+                    "title_short": "Bem-vindo!",
+                    "description": null,
+                    "nav_label": "Sobre"
+}
+
+            }
+        },
+
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Educational* Background",
+                    "title_short": null,
+                    "description": "A glimpse into my academic trajectory and accomplishments.",
+                    "nav_label": "Education"
+                },
+                "es": {
+                    "title": "Antecedentes *Educativos*",
+                    "title_short": null,
+                    "description": "Un vistazo a mi trayectoria académica y logros.",
+                    "nav_label": "Educación"
+                },
+                "fr": {
+                    "title": "Parcours *Éducatif*",
+                    "title_short": null,
+                    "description": "Un aperçu de mon parcours académique et de mes réalisations.",
+                    "nav_label": "Éducation"
+                },
+                "pt": {
+                    "title": "Formação *Acadêmica*",
+                    "title_short": null,
+                    "description": "Um panorama da minha trajetória acadêmica e conquistas.",
+                    "nav_label": "Educação"
+                }
+
+            }
+        },
+
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Skill* Set",
+                    "title_short": null,
+                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "nav_label": "Skills"
+                },
+                "es": {
+                    "title": "Conjunto de *Habilidades*",
+                    "title_short": null,
+                    "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:",
+                    "nav_label": "Habilidades"
+                },
+                "fr": {
+                    "title": "Ensemble de *Compétences*",
+                    "title_short": null,
+                    "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:",
+                    "nav_label": "Compétences"
+                },
+                "pt": {
+                    "title": "Conjunto de *Habilidades*",
+                    "title_short": null,
+                    "description": "Explorando a diversidade de habilidades que adquiri e desenvolvi:",
+                    "nav_label": "Habilidades"
+                }
+
+            }
+        },
+
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                },
+                "es": {
+                    "title": "Experiencia *Profesional*",
+                    "title_short": null,
+                    "description": "Un vistazo a mi experiencia laboral y trayectoria profesional.",
+                    "nav_label": "Experiencia"
+                },
+                "fr": {
+                    "title": "Expérience *Professionnelle*",
+                    "title_short": null,
+                    "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière.",
+                    "nav_label": "Expérience"
+                },
+                "pt": {
+                    "title": "Experiência *Profissional*",
+                    "title_short": null,
+                    "description": "Uma visão sobre minha experiência de trabalho e trajetória profissional.",
+                    "nav_label": "Experiência"
+                }
+
+            }
+        },
+
+        {
+            "id": "achievements",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/achievements.json",
+            "faIcon": "fa-solid fa-award",
+            "type": "row",
+            "locales": {
+                "en": {
+                    "title": "Career *Achievements*",
+                    "title_short": null,
+                    "description": "My journey in the data field has been driven by a constant desire to learn and grow. I’ve been developing my technical skills and taking part in projects and courses that broaden my understanding of the data universe. Each experience has contributed to my professional growth in a steady and meaningful way:",
+                    "nav_label": "Achievements"
+                },
+                "es": {
+                    "title": "Logros *Profesionales*",
+                    "title_short": null,
+                    "description": "Mi trayectoria en el área de datos ha estado guiada por las ganas de aprender y crecer a cada paso. He venido desarrollando mis habilidades técnicas y participando en proyectos y cursos que amplían mi visión del mundo de los datos. Cada experiencia ha contribuido de forma constante y significativa a mi crecimiento profesional:",
+                    "nav_label": "Logros"
+                },
+                "fr": {
+                    "title": "Réalisations *Professionnelles*",
+                    "title_short": null,
+                    "description": "Mon parcours dans le domaine des données a été guidé par l’envie d’apprendre et de progresser à chaque étape. J’ai développé mes compétences techniques et participé à des projets et des formations qui enrichissent ma compréhension de l’univers des données. Chaque expérience a contribué de manière constante et significative à mon évolution professionnelle:",
+                    "nav_label": "Réalisations"
+                },
+                "pt": {
+                    "title": "Conquistas *Profissionais*",
+                    "title_short": null,
+                    "description": "Minha trajetória na área de dados tem sido guiada pela vontade de aprender e crescer a cada passo. Venho desenvolvendo minhas habilidades técnicas e participando de projetos e cursos que ampliam minha visão sobre o universo dos dados. Cada experiência tem contribuído para minha evolução profissional de forma constante e significativa:",
+                    "nav_label": "Conquistas"
+                }
+
+            }
+        },
+
+        {
+            "id": "contact",
+            "categoryId": "more",
+            "jsonPath": "/sections/contact.json",
+            "faIcon": "fa-solid fa-pen-to-square",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Contact* Me",
+                    "title_short": null,
+                    "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+                    "nav_label": "Contact"
+                },
+                "es": {
+                    "title": "Ponte en *Contacto*",
+                    "title_short": null,
+                    "description": "¡Por favor, no dudes en ponerte en contacto conmigo siempre que lo necesites!",
+                    "nav_label": "Contacto"
+                },
+                "fr": {
+                    "title": "*Contactez*-moi",
+                    "title_short": null,
+                    "description": "N'hésitez pas à me contacter chaque fois que vous en avez besoin!",
+                    "nav_label": "Contact"
+                },
+                "pt": {
+                    "title": "Entre em *Contato*",
+                    "title_short": null,
+                    "description": "Fique à vontade para entrar em contato comigo sempre que sentir necessidade!",
+                    "nav_label": "Contato"
+                }
+
+            }
+        }
+    ]
+}

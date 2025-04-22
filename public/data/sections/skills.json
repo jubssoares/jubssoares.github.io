@@ -1,0 +1,685 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fas fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Database Analysis",
+                            "description": "Data modeling, SQL/DB2 queries, and use of database management tools and SQL clients, such as DBVisualizer and DBeaver.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Análisis de Base de Datos",
+                            "description": "Modelado de datos, consultas SQL/DB2 y uso de herramientas de gestión de bases de datos y clientes SQL, como DBVisualizer y DBeaver.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Analyse de Base de Données",
+                            "description": "Modélisation de données, requêtes SQL/DB2 et utilisation d’outils de gestion de bases de données et de clients SQL, tels que DBVisualizer et DBeaver.",
+                            "level": null
+                        },
+                        "pt": {
+                            "title": "Análise de Banco de Dados",
+                            "description": "Modelagem de dados, consultas SQL/DB2 e uso de ferramentas de gerenciamento de banco de dados e clientes SQL, como DBVisualizer e DBeaver.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-magnifying-glass-chart",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Data Analysis",
+                            "description": "Data collection, processing, and analysis to extract insights, using tools such as Python and Power BI for data visualization and decision-making support.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Análisis de Datos",
+                            "description": "Recolección, procesamiento y análisis de datos para extraer insights, utilizando herramientas como Python y Power BI para visualización de datos y apoyo en la toma de decisiones.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Analyse de Données",
+                            "description": "Collecte, traitement et analyse de données pour extraire des insights, en utilisant des outils tels que Python et Power BI pour la visualisation des données et l’appui à la prise de décision.",
+                            "level": null
+                        },
+                        "pt": {
+                            "title": "Análise de dados",
+                            "description": "Coleta, processamento e análise de dados para extração de insights, com uso de ferramentas como Python e Power BI para visualização de dados e apoio à tomada de decisão.",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Programming"
+                },
+                "es": {
+                    "title": "Programación"
+                },
+                "fr": {
+                    "title": "Programmation"
+                },
+                "pt": {
+                    "title": "Programação"
+                }
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2019,
+                        "month": 4
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-python",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "description": "Experienced with Python libraries and data-related workflows."
+                        },
+                        "es": {
+                            "title": "Python",
+                            "description": "Con experiencia en bibliotecas de Python y flujos de trabajo relacionados con datos."
+                        },
+                        "fr": {
+                            "title": "Python",
+                            "description": "Expérimentée avec les bibliothèques Python et les workflows liés aux données."
+                        },
+                        "pt": {
+                            "title": "Python",
+                            "description": "Experiente com bibliotecas Python e fluxos de trabalho voltados para dados."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 6
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-java",
+                    "fallbackFaIconColor": null,
+                    "percentage": 35,
+                    "locales": {
+                        "en": {
+                            "title": "Java",
+                            "description": "Familiar with Java syntax and object-oriented programming concepts."
+                        },
+                        "es": {
+                            "title": "Java",
+                            "description": "Familiarizada con la sintaxis de Java y los conceptos de programación orientada a objetos."
+                        },
+                        "fr": {
+                            "title": "Java",
+                            "description": "Familiarisée avec la syntaxe de Java et les concepts de la programmation orientée objet."
+                        },
+                        "pt": {
+                            "title": "Java",
+                            "description": "Familiarizada com a sintaxe do Java e os conceitos de programação orientada a objetos."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Libraries"
+                },
+                "es": {
+                    "title": "Bibliotecas"
+                },
+                "fr": {
+                    "title": "Bibliothèques"
+                },
+                "pt": {
+                    "title": "Bibliotecas"
+                }
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2023,
+                        "month": 4
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-chart-simple",
+                    "fallbackFaIconColor": null,
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Pandas",
+                            "description": "Experienced in using Pandas for efficient structured data analysis and manipulation."
+                        },
+                        "es": {
+                            "title": "Pandas",
+                            "description": "Experta en el uso de Pandas para el análisis y manipulación eficiente de datos estructurados."
+                        },
+                        "fr": {
+                            "title": "Pandas",
+                            "description": "Expérimentée dans l'utilisation de Pandas pour l'analyse et la manipulation efficaces de données structurées."
+                        },
+                        "pt": {
+                            "title": "Pandas",
+                            "description": "Experiente no uso de Pandas para análise e manipulação eficiente de dados estruturados."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 4
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-chart-gantt",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Matplotlib & Seaborn",
+                            "description": "Skilled in creating statistical visualizations using Matplotlib and Seaborn."
+                        },
+                        "es": {
+                            "title": "Matplotlib & Seaborn",
+                            "description": "Hábil en la creación de visualizaciones estadísticas con Matplotlib y Seaborn."
+                        },
+                        "fr": {
+                            "title": "Matplotlib & Seaborn",
+                            "description": "Compétente dans la création de visualisations statistiques avec Matplotlib et Seaborn."
+                        },
+                        "pt": {
+                            "title": "Matplotlib & Seaborn",
+                            "description": "Prática na criação de visualizações estatísticas com Matplotlib e Seaborn."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {
+                        "year": 2019,
+                        "month": 4
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-wave-square",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Numpy",
+                            "description": "Solid knowledge of NumPy for mathematical operations and array manipulation."
+                        },
+                        "es": {
+                            "title": "Numpy",
+                            "description": "Conocimientos sólidos en NumPy para operaciones matemáticas y manejo de arrays."
+                        },
+                        "fr": {
+                            "title": "Numpy",
+                            "description": "Connaissance solide de NumPy pour les opérations mathématiques et la manipulation de tableaux."
+                        },
+                        "pt": {
+                            "title": "Numpy",
+                            "description": "Conhecimento sólido em NumPy para operações matemáticas e manipulação de arrays."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {
+                        "year": 2024,
+                        "month": 10
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-chart-line",
+                    "fallbackFaIconColor": null,
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "Plotly & Dash",
+                            "description": "Practical knowledge in building interactive dashboards with Plotly and Dash."
+                        },
+                        "es": {
+                            "title": "Plotly & Dash",
+                            "description": "Conocimientos prácticos en la creación de dashboards interactivos con Plotly y Dash."
+                        },
+                        "fr": {
+                            "title": "Plotly & Dash",
+                            "description": "Connaissance pratique de la création de tableaux de bord interactifs avec Plotly et Dash."
+                        },
+                        "pt": {
+                            "title": "Plotly & Dash",
+                            "description": "Conhecimento prático na criação de dashboards interativos com Plotly e Dash."
+                        }
+                    }
+                }
+
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Databases"
+                },
+                "es": {
+                    "title": "Bases de Datos"
+                },
+                "fr": {
+                    "title": "Bases de Données"
+                },
+                "pt": {
+                    "title": "Bancos de Dados"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 6
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "SQL",
+                            "description": "Hands-on experience with data modeling and SQL queries in corporate environments."
+                        },
+                        "es": {
+                            "title": "SQL",
+                            "description": "Experiencia práctica en modelado de datos y consultas SQL en entornos corporativos."
+                        },
+                        "fr": {
+                            "title": "SQL",
+                            "description": "Compétent dans la gestion de bases de données SQL, y compris la conception de schémas et l'optimisation des requêtes."
+                        },
+                        "pt": {
+                            "title": "SQL",
+                            "description": "Expérience pratique en modélisation de données et requêtes SQL dans des environnements professionnels."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2024,
+                        "month": 2
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-server",
+                    "fallbackFaIconColor": null,
+                    "percentage": 50,
+                    "locales": {
+                        "en": {
+                            "title": "NoSQL",
+                            "description": "Theoretical knowledge of NoSQL and data modeling with MongoDB, acquired through study."
+                        },
+                        "es": {
+                            "title": "NoSQL",
+                            "description": "Conocimientos teóricos de NoSQL y modelado de datos con MongoDB, adquiridos mediante estudios."
+                        },
+                        "fr": {
+                            "title": "NoSQL",
+                            "description": "Connaissances théoriques en NoSQL et modélisation de données avec MongoDB, acquises par l'étude."
+                        },
+                        "pt": {
+                            "title": "NoSQL",
+                            "description": "Conhecimento teórico em NoSQL e modelagem de dados com MongoDB, adquirido por meio de estudos."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Cloud"
+                },
+                "es": {
+                    "title": "Nube"
+                },
+                "fr": {
+                    "title": "Cloud"
+                },
+                "pt": {
+                    "title": "Nuvem"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2024,
+                        "month": 11
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-microsoft",
+                    "fallbackFaIconColor": null,
+                    "percentage": 60,
+                    "locales": {
+                        "en": {
+                            "title": "Microsoft Azure",
+                            "description": "Certified in Microsoft Azure AI Fundamentals (AI-900), with knowledge of artificial intelligence, cognitive services, and foundational Azure concepts acquired through study."
+                        },
+                        "es": {
+                            "title": "Microsoft Azure",
+                            "description": "Certificada en Microsoft Azure AI Fundamentals (AI-900), con conocimientos en inteligencia artificial, servicios cognitivos y fundamentos de Azure adquiridos mediante estudios."
+                        },
+                        "fr": {
+                            "title": "Microsoft Azure",
+                            "description": "Certifiée Microsoft Azure AI Fundamentals (AI-900), avec des connaissances en intelligence artificielle, services cognitifs et concepts de base d’Azure acquis par l’étude."
+                        },
+                        "pt": {
+                            "title": "Microsoft Azure",
+                            "description": "Certificada na Microsoft Azure AI Fundamentals (AI-900), com conhecimentos em inteligência artificial e serviços cognitivos, além de fundamentos da plataforma adquiridos por meio de estudos."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Tools"
+                },
+                "es": {
+                    "title": "Herramientas"
+                },
+                "fr": {
+                    "title": "Outils"
+                },
+                "pt": {
+                    "title": "Ferramentas"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2024,
+                        "month": 1
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-chart-pie",
+                    "fallbackFaIconColor": null,
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "Power BI",
+                            "description": "Experience in creating interactive dashboards, DAX, and data storytelling with Power BI."
+                        },
+                        "es": {
+                            "title": "Power BI",
+                            "description": "Experiencia creando paneles interactivos, DAX y narrativa de datos con Power BI."
+                        },
+                        "fr": {
+                            "title": "Power BI",
+                            "description": "Expérience dans la création de tableaux de bord interactifs, DAX et narration de données avec Power BI."
+                        },
+                        "pt": {
+                            "title": "Power BI",
+                            "description": "Experiência com criação de dashboards interativos, DAX e storytelling com dados no Power BI."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2021,
+                        "month": 1
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-git-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "Version Control",
+                            "description": "Familiar with code versioning using Git and GitHub, applying best practices with commits, branches, and project collaboration."
+                        },
+                        "es": {
+                            "title": "Control de Versiones",
+                            "description": "Familiarizada con el control de versiones usando Git y GitHub, aplicando buenas prácticas con commits, ramas y colaboración en proyectos."
+                        },
+                        "fr": {
+                            "title": "Contrôle de Version",
+                            "description": "Familiarisée avec le versionnage de code via Git et GitHub, en appliquant les bonnes pratiques de commits, branches et collaboration sur des projets."
+                        },
+                        "pt": {
+                            "title": "Versionamento",
+                            "description": "Familiaridade com versionamento de código usando Git e GitHub, aplicando boas práticas de commits, branches e colaboração em projetos."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {
+                        "year": 2023,
+                        "month": 9
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-table-columns",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "CA ERwin Data Modeler",
+                            "description": "Hands-on experience using ERwin for logical and physical database modeling, focused on meeting business requirements."
+                        },
+                        "es": {
+                            "title": "CA ERwin Data Modeler",
+                            "description": "Experiencia práctica utilizando ERwin para la modelación lógica y física de bases de datos, enfocada en los requerimientos del negocio."
+                        },
+                        "fr": {
+                            "title": "CA ERwin Data Modeler",
+                            "description": "Expérience pratique avec ERwin pour la modélisation logique et physique de bases de données, centrée sur les besoins métier."
+                        },
+                        "pt": {
+                            "title": "CA ERwin Data Modeler",
+                            "description": "Experiência prática no uso do ERwin para modelagem lógica e física de bancos de dados, com foco em atender requisitos de negócio."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {
+                        "year": 2019,
+                        "month": 6
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-regular fa-file-code",
+                    "fallbackFaIconColor": null,
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Jupyter Notebook",
+                            "description": "Experience using Jupyter to write, test, and document Python code, especially in data analysis projects."
+                        },
+                        "es": {
+                            "title": "Jupyter Notebook",
+                            "description": "Experiencia usando Jupyter para escribir, probar y documentar código en Python, especialmente en proyectos de análisis de datos."
+                        },
+                        "fr": {
+                            "title": "Jupyter Notebook",
+                            "description": "Expérience avec Jupyter pour écrire, tester et documenter du code Python, notamment dans des projets d’analyse de données."
+                        },
+                        "pt": {
+                            "title": "CA ERwin Data Modeler",
+                            "description": "Experiência no uso do Jupyter para escrever, testar e documentar códigos em Python, especialmente em projetos de análise de dados."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Languages"
+                },
+                "es": {
+                    "title": "Idiomas"
+                },
+                "fr": {
+                    "title": "Langues"
+                },
+                "pt": {
+                    "title": "Idiomas"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": "images/flags/pt-br.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Portuguese",
+                            "description": "Native speaker with excellent communication and writing skills.",
+                            "level": "Native"
+                        },
+                        "es": {
+                            "title": "Portugués",
+                            "description": "Hablante nativa con excelentes habilidades de comunicación y escritura.",
+                            "level": "Nativo"
+                        },
+                        "fr": {
+                            "title": "Portugais",
+                            "description": "Langue maternelle avec d'excellentes compétences en communication et en rédaction.",
+                            "level": "Langue maternelle"
+                        },
+                        "pt": {
+                            "title": "Português",
+                            "description": "Nativa, com excelente comunicação verbal e escrita.",
+                            "level": "Nativo"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": "images/flags/en-us.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "description": "Basic understanding of English; learning and improving.",
+                            "level": "Beginner"
+                        },
+                        "es": {
+                            "title": "Inglés",
+                            "description": "Comprensión básica del inglés; aprendiendo y mejorando.",
+                            "level": "Principiante"
+                        },
+                        "fr": {
+                            "title": "Anglais",
+                            "description": "Compréhension de base de l’anglais ; en cours d’apprentissage et d’amélioration.",
+                            "level": "Débutant"
+                        },
+                        "pt": {
+                            "title": "Inglês",
+                            "description": "Compreensão básica de inglês; em processo de aprendizado e evolução.",
+                            "level": "Iniciante"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

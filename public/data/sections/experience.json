@@ -1,0 +1,154 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 11
+                    },
+                    "dateEnd": {
+                        "year": 2024,
+                        "month": 10
+                    },
+                    "img": "images/places/capgemini.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Solutions Analyst I",
+                            "description": "My professional journey began with providing IT services and consultancy, where I applied my knowledge in the data field. I worked with data modeling and analysis, developing data dictionaries and creating SQL queries for DB2. I was also responsible for performing tests and ensuring that the delivered solutions met the client's needs.",
+                            "province": "Salvador",
+                            "country": "Brazil",
+                            "institution": "Capgemini",
+                            "tags": [
+                                "Data Modeling",
+                                "Data Analysis",
+                                "SQL/DB2",
+                                "Python"
+                            ]
+                        },
+                        "es": {
+                            "title": "Analista de Soluciones I",
+                            "description": "Mi trayectoria profesional comenzó con la prestación de servicios y consultoría en TI, donde pude aplicar mis conocimientos en el área de datos. Trabajé con modelado y análisis de datos, desarrollando diccionarios de datos y creando consultas y queries en SQL para DB2. También fui responsable de realizar pruebas y garantizar que las soluciones entregadas estuvieran alineadas con las necesidades del cliente.",
+                            "province": "Salvador",
+                            "country": "Brasil",
+                            "institution": "Capgemini",
+                            "tags": [
+                                "Modelado de datos",
+                                "Análisis de datos",
+                                "SQL/DB2",
+                                "Python"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Analyste de Solutions I",
+                            "description": "Mon parcours professionnel a commencé par la prestation de services et de conseils en informatique, où j'ai appliqué mes connaissances dans le domaine des données. J'ai travaillé sur la modélisation et l'analyse des données, en développant des dictionnaires de données et en créant des requêtes SQL pour DB2. J'étais également responsable de réaliser des tests et de m'assurer que les solutions livrées répondaient aux besoins des clients.",
+                            "province": "Salvador",
+                            "country": "Brésil",
+                            "institution": "Capgemini",
+                            "tags": [
+                                "Modélisation de données",
+                                "Analyse de données",
+                                "SQL/DB2",
+                                "Python"
+                            ]
+                        },
+                        "pt": {
+                            "title": "Analista de Soluções I",
+                            "description": "Minha trajetória profissional começou com a prestação de serviços e consultoria em TI, onde pude aplicar meus conhecimentos na área de dados. Atuei com modelagem e análise de dados, desenvolvendo dicionários de dados e criando consultas e queries em SQL para DB2. Também fui responsável por realizar testes e garantir que as soluções entregues estivessem alinhadas às necessidades do cliente.",
+                            "province": "Salvador",
+                            "country": "Brasil",
+                            "institution": "Capgemini",
+                            "tags": [
+                                "Modelagem de dados",
+                                "Análise de dados",
+                                "SQL/DB2",
+                                "Python"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2024,
+                        "month": 11
+                    },
+                    "dateEnd": {
+                        "string": "now"
+                    },
+                    "img": "images/places/capgemini.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Digital Solutions Analyst II",
+                            "description": "I work as a Junior/Mid-level Data and Database Analyst, focusing on data modeling and information governance. My experience includes structuring and optimizing SQL databases, including SQL Server on Azure, as well as creating and maintaining data dictionaries to ensure traceability and standardization of information.",
+                            "province": "Salvador",
+                            "country": "Brazil",
+                            "institution": "Capgemini",
+                            "tags": [
+                                "Data Modeling",
+                                "Data Analysis",
+                                "Generative AI",
+                                "SQL/DB2",
+                                "Azure"
+                            ]
+                        },
+                        "es": {
+                            "title": "Analista de Soluciones Digitales II",
+                            "description": "Actúo como Analista de Datos y Bases de Datos Jr/Pl, con enfoque en modelado de datos y gobernanza de la información. Mi experiencia incluye la estructuración y optimización de bases de datos SQL, incluido SQL Server en Azure, además de la creación y mantenimiento de diccionarios de datos para garantizar la trazabilidad y estandarización de la información.",
+                            "province": "Salvador",
+                            "country": "Brasil",
+                            "institution": "Capgemini",
+                            "tags": [
+                                "Modelado de datos",
+                                "Análisis de datos",
+                                "IA Generativa",
+                                "SQL/DB2",
+                                "Azure"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Analyste en Solutions Numériques II",
+                            "description": "J'occupe le poste d'Analyste de Données et de Bases de Données Jr/Pl, avec un accent sur la modélisation des données et la gouvernance de l'information. Mon expérience comprend la structuration et l'optimisation de bases de données SQL, y compris SQL Server sur Azure, ainsi que la création et la maintenance de dictionnaires de données pour garantir la traçabilité et la normalisation des informations.",
+                            "province": "Salvador",
+                            "country": "Brésil",
+                            "institution": "Capgemini",
+                            "tags": [
+                                "Modélisation de données",
+                                "Analyse de données",
+                                "IA Générative",
+                                "SQL/DB2",
+                                "Azure"
+                            ]
+                        },
+                        "pt": {
+                            "title": "Analista de Soluções Digitais II",
+                            "description": "Atuo como Analista de Dados e Banco de Dados Jr/Pl, com foco em modelagem de dados e governança da informação. Minha experiência envolve a estruturação e otimização de bancos SQL, incluindo SQL Server no Azure, além da criação e manutenção de dicionários de dados para garantir a rastreabilidade e a padronização das informações",
+                            "province": "Salvador",
+                            "country": "Brasil",
+                            "institution": "Capgemini",
+                            "tags": [
+                                "Modelagem de dados",
+                                "Análise de dados",
+                                "IA Generativa",
+                                "SQL/DB2",
+                                "Azure"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

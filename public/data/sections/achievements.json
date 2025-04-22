@@ -1,0 +1,126 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {
+                    "title": "Awards"
+                },
+                "es": {
+                    "title": "Premios"
+                },
+                "fr": {
+                    "title": "Prix"
+                },
+                "pt": {
+                    "title": "Conquistas"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2024,
+                        "month": 11
+                    },
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "pt": {
+                            "title": "Nota máxima no TCC",
+                            "description": "Reconhecida com a nota mais alta no Trabalho de Conclusão de Curso, destacando-se pela qualidade e relevância do projeto no Bacharelado em Física.",
+                            "institution": "Universidade do Estado da Bahia (UNEB)"
+                        },
+                        "en": {
+                            "title": "Top Grade in Graduation Project",
+                            "description": "Received the highest grade for the final graduation project; recognized for quality and relevance in the Physics BSc program.",
+                            "institution": "Universidade do Estado da Bahia (UNEB)"
+                        },
+                        "es": {
+                            "title": "Nota máxima en el Proyecto de Graduación",
+                            "description": "Obtuvo la calificación más alta en el trabajo final de grado; reconocida por la calidad y relevancia del proyecto en la Licenciatura en Física.",
+                            "institution": "Universidad del Estado de Bahía (UNEB)"
+                        },
+                        "fr": {
+                            "title": "Note maximale au projet de fin d’études",
+                            "description": "A obtenu la note la plus élevée pour le projet de fin d’études ; reconnue pour la qualité et la pertinence du travail dans la licence de Physique.",
+                            "institution": "Université de l'État de Bahia (UNEB)"
+                        }
+                    },
+                    "links": [
+                        {
+                            "href": "https://github.com/jubssoares/simulacao-vpython-monografia",
+                            "stringKey": "view_award"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {
+                    "title": "Certifications"
+                },
+                "es": {
+                    "title": "Certificaciones"
+                },
+                "fr": {
+                    "title": "Certifications"
+                },
+                "pt": {
+                    "title": "Certificações"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2025,
+                        "month": 1
+                    },
+                    "fallbackFaIcon": "fa-brands fa-microsoft",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Microsoft Certified: Azure AI Fundamentals",
+                            "description": "Certified by Microsoft in Azure AI fundamentals; demonstrated knowledge in AI concepts and services within Azure.",
+                            "institution": "Microsoft"
+                        },
+                        "es": {
+                            "title": "Certificación Microsoft: Fundamentos de IA de Azure",
+                            "description": "Certificada por Microsoft en fundamentos de IA de Azure; demuestra conocimientos en conceptos y servicios de IA dentro de Azure.",
+                            "institution": "Microsoft"
+                        },
+                        "fr": {
+                            "title": "Certification Microsoft : Fondamentaux de l'IA Azure",
+                            "description": "Certifié par Microsoft dans les fondamentaux de l'IA Azure ; démontre des connaissances sur les concepts et services de l'IA dans Azure.",
+                            "institution": "Microsoft"
+                        },
+                        "pt": {
+                            "title": "Microsoft Certified: Conceitos básicos da IA do Azure",
+                            "description": "Certificado pela Microsoft nos conceitos básicos da IA do Azure; demonstrou conhecimento em conceitos e serviços de IA dentro do Azure.",
+                            "institution": "Microsoft"
+                        }
+                    },
+                    "links": [
+                        {
+                            "href": "https://learn.microsoft.com/pt-br/users/julianasilvasoares/credentials/6f3462da34b7f531",
+                            "stringKey": "view_certification"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
