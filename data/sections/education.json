@@ -1,0 +1,108 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2017, "month": 2},
+                    "dateEnd": {"year": 2024, "month": 7},
+                    "img": "images/places/uneb.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor's Degree in Physics",
+                            "description": "The course aims to train professionals with solid knowledge in Theoretical and Experimental Physics, skilled in the development and use of computational technologies, such as the Python programming language.",
+                            "province": "Salvador",
+                            "country": "Brazil",
+                            "institution": "Universidade do Estado da Bahia (State University of Bahia)",
+                            "tags": []
+                        },
+
+                        "es": {
+                            "title": "Licenciatura en Física",
+                            "description": "El curso tiene como objetivo formar profesionales con sólidos conocimientos en Física Teórica y Experimental, capacitados en el desarrollo y uso de tecnologías computacionales, como el lenguaje de programación Python.",
+                            "province": "Salvador",
+                            "country": "Brasil",
+                            "institution": "Universidade do Estado da Bahia (Universidad Estatal de Bahía)",
+                            "tags": []
+                        },
+
+                        "fr": {
+                            "title": "Licence en Physique",
+                            "description": "Le cours a pour objectif de former des professionnels avec des connaissances solides en Physique Théorique et Expérimentale, compétents dans le développement et l'utilisation de technologies informatiques, telles que le langage de programmation Python.",
+                            "province": "Salvador",
+                            "country": "Brésil",
+                            "institution": "Universidade do Estado da Bahia (Université de l'État de Bahia)",
+                            "tags": []
+                        },
+
+                        "pt": {
+                            "title": "Licenciatura em Física",
+                            "description": "O curso tem como objetivo formar profissionais com sólidos conhecimentos em Física Teórica e Experimental, capacitados no desenvolvimento e uso de tecnologias computacionais, como a linguagem de programação Python.",
+                            "province": "Salvador",
+                            "country": "Brasil",
+                            "institution": "Universidade do Estado da Bahia",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2024, "month": 9},
+                    "dateEnd": {"year": 2026, "month": 7},
+                    "img": "images/places/usp.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Specialization in Software Engineering",
+                            "description": "A lato sensu graduate program in Software Engineering that prepares professionals to lead organizational changes with technical and managerial responsibility. The course provides solid training in management, decision-making, and software solution improvement, combining technical excellence with strategic management. It develops well-rounded professionals, blending leadership and management skills (soft skills) with advanced expertise in software development and systems architecture (hard skills).",
+                            "province": "Piracicaba",
+                            "country": "Brazil",
+                            "institution": "Universidade de São Paulo (University of São Paulo)",
+                            "tags": []
+                        },
+
+                        "es": {
+                            "title": "Especialización en Ingeniería de Software",
+                            "description": "Posgrado lato sensu en Ingeniería de Software que capacita al profesional para liderar cambios organizacionales con responsabilidad técnica y gerencial. El curso ofrece una formación sólida en gestión, toma de decisiones y mejora de soluciones de software, combinando excelencia técnica con gestión estratégica. Desarrolla profesionales completos, uniendo competencias de liderazgo y gestión (soft skills) con dominio avanzado en desarrollo y arquitectura de sistemas (hard skills).",
+                            "province": "Salvador",
+                            "country": "Brasil",
+                            "institution": "Universidade de São Paulo (Universidad de São Paulo)",
+                            "tags": []
+                        },
+
+                        "fr": {
+                            "title": "Spécialisation en Ingénierie Logicielle",
+                            "description": "Un programme de troisième cycle lato sensu en Ingénierie Logicielle qui forme les professionnels à mener des changements organisationnels avec responsabilité technique et managériale. Le cours offre une formation solide en gestion, prise de décision et amélioration des solutions logicielles, en alliant excellence technique et gestion stratégique. Il développe des professionnels complets, alliant compétences en leadership et gestion (soft skills)) à une expertise avancée en développement et architecture des systèmes (hard skills).",
+                            "province": "Salvador",
+                            "country": "Brésil",
+                            "institution": "Universidade de São Paulo (Université de São Paulo)",
+                            "tags": []
+                        },
+
+                        "pt": {
+                            "title": "Especialização em Engenharia de Software",
+                            "description": "Pós-graduação lato sensu em Engenharia de Software que capacita o profissional a liderar mudanças organizacionais com responsabilidade técnica e gerencial. O curso oferece uma formação sólida em gestão, tomada de decisão e melhoria de soluções de software, combinando excelência técnica com gestão estratégica. Desenvolve profissionais completos, unindo competências de liderança e gestão (soft skills) com domínio avançado em desenvolvimento e arquitetura de sistemas (hard skills).",
+                            "province": "Salvador",
+                            "country": "Brasil",
+                            "institution": "Universidade de São Paulo",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

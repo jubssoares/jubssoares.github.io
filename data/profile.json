@@ -1,0 +1,75 @@
+{
+    "name": "Juliana Soares",
+    "profilePictureUrl": "/images/pictures/avatar.png",
+    "locales": {
+        "pt": {
+            "credits": "Design de <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Profissional de dados"
+        },
+
+        "en": {
+            "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Data professional"
+        },
+
+        "es": {
+            "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Profesional de datos"
+        },
+
+        "fr": {
+            "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Professionnel des données"
+        }
+    },
+    "contactOptions": [
+        {
+            "id": "address",
+            "value": "Salvador - BA, Brasil",
+            "valueShort": "Salvador - BA",
+            "faIcon": "fa-regular fa-map",
+            "href": null
+        },
+
+        {
+            "id": "email",
+            "value": "eujulianasilvasoares@gmail.com",
+            "valueShort": "eujulianasilvasoares@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:eujulianasilvasoares@gmail.com"
+        },
+
+        {
+            "id": "github",
+            "value": "@jubssoares",
+            "valueShort": "@jubssoares",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/jubssoares"
+        },
+
+
+        {
+            "id": "linkedin",
+            "value": "@julianasilvasoares",
+            "valueShort": "@julianasilvasoares",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com/in/julianasilvasoares"
+        },
+
+        {
+            "id": "lattes",
+            "value": "@juliana-silva-soares",
+            "valueShort": "@juliana-silva-soares",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "href": "http://lattes.cnpq.br/7348547730589925"
+        },
+
+        {
+            "id": "phone",
+            "value": "+55 (71) 99926-8088",
+            "valueShort": "(71) 99926-8088",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:71999268088"
+        }
+    ]
+}

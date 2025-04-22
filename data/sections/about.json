@@ -1,0 +1,36 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email"],
+                "contact_circles_ids": ["linkedin", "lattes", "github"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "Passionate about technology, I found in the data field a way to merge my background in Physics with what I love most: investigating, understanding, and transforming information into solutions. I work with data modeling and analysis, writing SQL queries in DB2 environments and using tools such as DBVisualizer and DBeaver. My journey combines analytical thinking, technical skills, and scientific research experience, allowing me to tackle challenges with a critical and strategic perspective. Feel free to learn more about my journey!"
+                        },
+
+                        "es": {
+                             "description": "Apasionada por la tecnología, encontré en el área de datos una forma de unir mi formación en Física con lo que más disfruto hacer: investigar, comprender y transformar información en soluciones. Trabajo con modelado y análisis de datos, elaborando consultas SQL en entornos DB2 y utilizando herramientas como DBVisualizer y DBeaver. Mi trayectoria combina pensamiento analítico, habilidades técnicas y experiencia en investigación científica, lo que me permite enfrentar desafíos con una visión crítica y estratégica. ¡No dudes en conocer más sobre mi camino!"
+                        },
+
+                        "fr": {
+                            "description": "Passionnée par la technologie, j’ai trouvé dans le domaine des données un moyen de relier ma formation en physique à ce que j’aime le plus : enquêter, comprendre et transformer les informations en solutions. Je travaille avec la modélisation et l’analyse de données, en rédigeant des requêtes SQL dans des environnements DB2 et en utilisant des outils tels que DBVisualizer et DBeaver. Mon parcours allie pensée analytique, compétences techniques et expérience en recherche scientifique, ce qui me permet d’aborder les défis avec un regard critique et stratégique. N’hésitez pas à en découvrir davantage sur mon parcours !"
+                        },
+                        "pt": {
+                            "description": "Apaixonada por tecnologia e encontrei na área de dados um caminho para unir minha formação em Física ao que mais gosto de fazer: investigar, entender e transformar informações em soluções. Atuo com modelagem e análise de dados, elaborando consultas SQL em ambientes DB2 e utilizando ferramentas como DBVisualizer e DBeaver. Minha trajetória combina raciocínio analítico, domínio técnico e experiência em pesquisa científica, o que me permite encarar desafios com uma visão crítica e estratégica. Sinta-se à vontade para conhecer mais sobre minha jornada!"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

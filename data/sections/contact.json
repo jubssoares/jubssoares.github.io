@@ -1,0 +1,33 @@
+{
+    "articles": [
+
+        {
+            "id": 1,
+            "component": "ArticleContactOptions",
+            "locales": {
+                "en": {
+                    "title": " ",
+                    "description": "You can reach out to me through the following options:"
+                },
+                "es": {
+                    "title": " ",
+                    "description": "Puedes contactarme a través de las siguientes opciones:"
+                },
+                "fr": {
+                    "title": " ",
+                    "description": "Vous pouvez me contacter via les options suivantes :"
+                },
+                "pt": {
+                    "title": " ",
+                    "description": "Você pode entrar em contato comigo por meio das seguintes opções:"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_ids": ["address", "email", "linkedin", "github"]
+            },
+            "items": null
+        }
+    ]
+}
