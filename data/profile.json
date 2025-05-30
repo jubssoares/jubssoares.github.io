@@ -1,6 +1,6 @@
 {
     "name": "Juliana Soares",
-    "profilePictureUrl": "public/images/pictures/avatar_pixel.png",
+    "profilePictureUrl": "../images/pictures/avatar.png",
     "locales": {
         "pt": {
             "credits": "Design de <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
