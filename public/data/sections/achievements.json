@@ -84,7 +84,7 @@
             },
             "items": [
                 {
-                    "id": 1,
+                    "id": 2,
                     "dateStart": {
                         "year": 2025,
                         "month": 1
@@ -116,6 +116,43 @@
                     "links": [
                         {
                             "href": "https://learn.microsoft.com/pt-br/users/julianasilvasoares/credentials/6f3462da34b7f531",
+                            "stringKey": "view_certification"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2024,
+                        "month": 7
+                    },
+                    "fallbackFaIcon": "fa-solid fa-house-laptop",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Data Analysis with Python",
+                            "description": "The course covered Python fundamentals, version control, object-oriented programming, testing, data analysis introduction, statistics, data visualization, agile methodologies, educational guidance, and career mentoring.",
+                            "institution": "{reprograma}"
+                        },
+                        "es": {
+                            "title": "Análisis de datos con Python",
+                            "description": "El curso abarcó fundamentos de Python, control de versiones, programación orientada a objetos, pruebas, introducción al análisis de datos, estadística, visualización de datos, metodologías ágiles, orientación educativa y mentoría profesional.",
+                            "institution": "{reprograma}"
+                        },
+                        "fr": {
+                            "title": "Analyse de données avec Python",
+                            "description": "Le cours a couvert les bases de Python, le contrôle de version, la programmation orientée objet, les tests, l’introduction à l’analyse de données, les statistiques, la visualisation de données, les méthodologies agiles, l’accompagnement éducatif et le mentorat de carrière.",
+                            "institution": "{reprograma}"
+                        },
+                        "pt": {
+                            "title": "Análise de dados com Python",
+                            "description": "O curso abrangeu fundamentos de Python, versionamento de código, orientação a objetos, testes, introdução à análise de dados, estatística, visualização de dados, metodologias ágeis, orientação educacional e mentoria de carreira.",
+                            "institution": "{reprograma}"
+                        }
+                    },
+                    "links": [
+                        {
+                            "href": "https://drive.google.com/file/d/1ejczU4L9Z7ooIpiXcI2JXOULXp82XFyL/view?usp=drive_link",
                             "stringKey": "view_certification"
                         }
                     ]
